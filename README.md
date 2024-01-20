@@ -1,0 +1,1 @@
+# godot-firebase-android-plugin
