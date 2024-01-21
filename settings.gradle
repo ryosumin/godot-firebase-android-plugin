@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name='FirebaseGodotPlugin'
 include ':firebase-analytics'
 include ':firebase-remote-config'
+include ':firebase-cloud-messaging'
