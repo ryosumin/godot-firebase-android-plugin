@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name='FirebaseAnalytics'
+rootProject.name='FirebaseGodotPlugin'
 include ':firebase-analytics'
+include ':firebase-remote-config'
