@@ -5,8 +5,8 @@
         VERSION_CODE = 1
         VERSION_NAME = "1.0.0-SNAPSHOT"
         GROUP = "ru.mobilap.firebaseanalytics"
-        POM_NAME = "godot-firebase-remote-config"
-        ARTIFACT_ID = "firebase-remote-config"
+        POM_NAME = "godot-firebase-cloud-messaging"
+        ARTIFACT_ID = "firebase-cloud-messaging"
         POM_PACKAGING = "aar"
         POM_DESCRIPTION = "descript"
 
